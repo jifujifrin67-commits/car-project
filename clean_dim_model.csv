@@ -1,0 +1,1051 @@
+model_id,model_name,brand_id
+1,Amaze 1.2 VX i-VTEC,1
+2,Swift DZire VDI,2
+3,i10 Magna 1.2 Kappa2,3
+4,Glanza G,4
+5,Innova 2.4 VX 7 STR [2016-2020],4
+6,Ciaz ZXi,2
+7,CLA 200 Petrol Sport,5
+8,X1 xDrive20d M Sport,6
+9,Octavia 1.8 TSI Style Plus AT [2017],7
+10,Terrano XL (D),8
+11,Elite i20 Sportz 1.2,3
+12,Kwid 1.0 RXT [2016-2019],9
+13,Ciaz Alpha Hybrid 1.5 AT [2018-2020],2
+14,Harrier XZ [2019-2020],10
+15,Polo GT TSI,11
+16,Celerio ZXi AMT [2019-2020],2
+17,Alto 800 LXi (O),2
+18,Baleno Alpha Automatic,2
+19,Wagon R ZXi 1.2 AMT,2
+20,Creta 1.6 E Petrol,3
+21,S-Presso VXi AMT,2
+22,Vento Comfortline Petrol AT,11
+23,Santro Sportz AMT [2018-2020],3
+24,Venue SX 1.0 (O) Petrol [2019-2020],3
+25,Alto LXi CNG,2
+26,Ritz Zxi BS-IV,2
+27,Creta 1.6 SX Plus Petrol,3
+28,Brio V MT,1
+29,Elite i20 Asta 1.2,3
+30,WR-V VX MT Petrol,1
+31,Venue SX 1.0 Turbo iMT,3
+32,Creta 1.6 SX Plus AT,3
+33,Ecosport Titanium+ 1.0L EcoBoost,12
+34,CR-V 2.4 AT,1
+35,Santro GL (CNG),3
+36,Tiago Revotron XE [2016-2019],10
+37,Tigor Revotorq XT,10
+38,Innova 2.4 G 8 STR [2016-2017],4
+39,GLC 220 d Progressive,5
+40,Creta SX 1.6 CRDi (O),3
+41,M-Class ML 250 CDI,5
+42,Corolla Altis VL AT Petrol,4
+43,A4 2.0 TDI (177bhp) Premium Plus,13
+44,SLK-Class SLK 200 K,5
+45,Thar CRDe 4x4 AC,14
+46,Baleno Delta 1.2,2
+47,Celerio VXi AMT,2
+48,Ciaz VDi SHVS,2
+49,Ciaz VXi,2
+50,Creta SX Plus 1.6 AT CRDI,3
+51,Creta SX Plus 1.6  Petrol,3
+52,Kwid 1.0 RXT AMT Opt,9
+53,Hector Sharp 2.0 Diesel [2019-2020],15
+54,Tiago Revotron XZA [2017-2019],10
+55,Innova 2.5 GX BS IV 7 STR,4
+56,X3 xDrive 20d Luxury Line [2018-2020],6
+57,Compass Limited Plus 2.0 Diesel 4x4 AT,16
+58,Scorpio SLE BS-IV,14
+59,Brio S MT,1
+60,3-Series 320i Luxury Line,6
+61,City V Petrol [2017-2019],1
+62,Polo Highline1.2L (D),11
+63,Vitara Brezza ZXi Plus,2
+64,Eeco 7 STR [2019-2020],2
+65,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],3
+66,X3 xDrive20d,6
+67,Fortuner 2.8 4x2 AT [2016-2020],4
+68,Civic 1.8S MT,1
+69,A4 2.0 TDI (143 bhp),13
+70,Swift ZXi Plus AMT,2
+71,Elite i20 Sportz 1.5 MT Diesel,3
+72,A3 35 TDI Technology + Sunroof,13
+73,City V CVT Petrol [2017-2019],1
+74,Figo Duratorq Diesel Titanium 1.4,12
+75,Jazz VX Petrol,1
+76,Polo Highline1.2L (P),11
+77,Amaze 1.5 SX i-DTEC,1
+78,Camry 2.5L AT,4
+79,Thar LX 4-STR Hard Top Petrol AT,14
+80,C-Class 250 CDI Elegance,5
+81,Q3 35 TDI quattro Premium Plus,13
+82,Baleno Sigma 1.2,2
+83,X1 sDrive20d xLine,6
+84,Baleno Zeta 1.2,2
+85,Vento Comfortline Petrol,11
+86,C-Class 220 BlueEfficiency,5
+87,Camry Hybrid,4
+88,DZire VXi,2
+89,Terrano XV D THP 110 PS,8
+90,Wagon R LXI CNG,2
+91,Vitara Brezza LDi (O) [2016-2018],2
+92,X5 xDrive30d Pure Experience (5 Seater),6
+93,GLC 220 d Sport,5
+94,Cayenne Coupe Platinum Edition,17
+95,C-Class Cabriolet C 300,5
+96,Elite i20 Magna 1.2,3
+97,Verna 1.6 VTVT SX,3
+98,Amaze 1.2 SX i-VTEC,1
+99,Corolla Altis 1.8 G,4
+100,Elite i20 Sportz 1.2 (O),3
+101,A6 2.0 TDI Premium,13
+102,XUV300 W8 (O) 1.5 Diesel,14
+103,Swift ZDi Plus,2
+104,Thar LX 4-STR Hard Top Petrol MT,14
+105,City 1.5 S MT,1
+106,E-Class E 250 CDI Avantgarde,5
+107,Fortuner 3.0 4x2 AT,4
+108,Zest XM 75 PS Diesel,10
+109,Rapid Ambition 1.6 MPI AT Plus,7
+110,Alto 800 Lxi,2
+111,Ertiga VDi,2
+112,Santro GL LPG,3
+113,Figo Duratorq Diesel ZXI 1.4,12
+114,Harrier XZ Plus,10
+115,Elite i20 Asta (O) 1.0 Turbo DCT,3
+116,Swift DZire VXI,2
+117,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],3
+118,Nexon EV XZ Plus,10
+119,Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],3
+120,Q2 Premium Plus I 40 TFSI quattro,13
+121,Q7 45 TDI Premium Plus,13
+122,Verna Fluidic 1.6 CRDi SX,3
+123,Wagon R VXI,2
+124,5-Series 520d Sedan,6
+125,Scorpio 2.6 Turbo 7 Str,14
+126,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],3
+127,Ritz VXI BS-IV,2
+128,Q5 45 TFSI Premium Plus,13
+129,Duster RXS 1.5 Petrol MT,9
+130,Creta SX 1.6 AT Petrol,3
+131,Compass Limited (O) 2.0 Diesel [2017-2020],16
+132,Verna EX 1.6 CRDi [2017-2018],3
+133,i20 Magna 1.2,3
+134,A6 35 TDI Matrix,13
+135,Marazzo M2 8 STR,14
+136,Seltos HTX Plus 1.5 Diesel [2020-2021],18
+137,Baleno Alpha 1.2,2
+138,E-Class E 220d Expression [2019-2019],5
+139,Ertiga ZDI + SHVS,2
+140,Verna Fluidic 1.6 VTVT SX,3
+141,Discovery Sport S,19
+142,GLE 250 d,5
+143,Xcent S 1.2 (O),3
+144,S-Class Maybach S 500,5
+145,Hector Sharp 1.5 DCT Petrol [2019-2020],15
+146,Astor Sharp 1.5 CVT,15
+147,Duster 85 PS RxL,9
+148,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],3
+149,City V,1
+150,C-Class C 200 Avantgarde,5
+151,Elite i20 Asta 1.4 (O) CRDi,3
+152,Fabia Elegance 1.6 MPI,7
+153,Rapid 1.5 TDI CR Ambition Plus AT,7
+154,Sonet GTX Plus 1.0 DCT [2020-2021],18
+155,XUV500 W11 AT,14
+156,3-Series 320d Luxury Line,6
+157,GLA 200 CDI Sport,5
+158,Wagon R VXi,2
+159,A6 35 TDI Premium,13
+160,Scorpio VLX 2WD BS-IV,14
+161,Fortuner 3.0 4x4 MT,4
+162,Ecosport Titanium+ 1.5L TDCi,12
+163,Q7 3.0 TDI quattro Premium Plus,13
+164,C-Class C 250 d,5
+165,S-Presso VXi,2
+166,Scorpio S5 2WD 7 STR,14
+167,Hector Sharp 2.0 Diesel Turbo MT,15
+168,Swift VDi BS-IV,2
+169,Swift ZDi,2
+170,City VX (O) MT,1
+171,Innova 2.5 G4 7 STR,4
+172,Duster 110 PS RxL Diesel,9
+173,Q3 2.0 TDI quattro Premium,13
+174,M-Class 350 CDI,5
+175,V40 Cross Country D3,20
+176,5-Series 530d M Sport [2013-2017],6
+177,X5 xDrive 30d M Sport,6
+178,City 1.5 S AT,1
+179,C-Class 200 CGI,5
+180,E-Class E350 CDI Avantgarde,5
+181,M-Class ML 350 CDI,5
+182,i20 Magna 1.4 CRDI,3
+183,Rapid Style AT,7
+184,Nexon XMA Petrol,10
+185,Swift DZire ZDI,2
+186,Sonet GTX Plus 1.5 AT [2020-2021],18
+187,Rapid Monte Carlo 1.6 MPI MT,7
+188,RS5 4.2 Coupe,13
+189,Grand i10 NIOS Magna AMT 1.2 Kappa VTVT,3
+190,R-Class R350 4MATIC,5
+191,Innova 2.4 G 7 STR [2016-2017],4
+192,Kwid RXT Opt,9
+193,A6 2.0 TFSi Technology Pack,13
+194,Safari XZA Plus 6S Adventure New,10
+195,Ritz Vdi BS-IV,2
+196,Brio EX MT,1
+197,Scorpio S9 2WD 7 STR,14
+198,Innova 2.8 GX AT 7 STR [2016-2020],4
+199,Amaze VX CVT 1.2 Petrol,1
+200,Compass Longitude Plus 2.0 Diesel 4x4 AT,16
+201,Levante Diesel,21
+202,Cayenne Turbo,17
+203,Innova GX 2.4 AT 7 STR,4
+204,X5 xDrive 30d,6
+205,Fortuner 3.0 MT,4
+206,Q7 35 TDI Premium + Sunroof,13
+207,Wagon R LXi 1.0 CNG [2019-2020],2
+208,Alto VXi (O),2
+209,Ciaz VXi (O),2
+210,Swift VDi AMT [2018-2019],2
+211,C-Class C 43 AMG,5
+212,E-Class E250 CDI BlueEfficiency,5
+213,Nexon XZA Plus Petrol,10
+214,Alto 800 Vxi,2
+215,XUV500 W8,14
+216,Mobilio S Diesel,1
+217,Punch Creative iRA Pack MT,10
+218,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],3
+219,Baleno Alpha 1.3,2
+220,F-Pace Prestige,22
+221,Range Rover Sport SE 2.0 Petrol,19
+222,Fortuner 3.0 4x4 AT,4
+223,Kwid 1.0 RXT Edition,9
+224,X1 sDrive20d Expedition,6
+225,Wagon R LXi Minor,2
+226,Elite i20 Asta 1.2 AT,3
+227,3-Series 320d,6
+228,XUV500 W10,14
+229,Cayenne Diesel,17
+230,Terrano XL D Plus,8
+231,Thar LX 4-STR Hard Top Diesel AT,14
+232,Discovery Sport HSE 7-Seater,19
+233,5-Series 525d Sedan,6
+234,Glanza G CVT,4
+235,Creta 1.6 SX Plus AT Petrol,3
+236,MU-X 4x2,23
+237,Alto VXi,2
+238,Corolla Altis G AT Petrol,4
+239,i10 Sportz 1.2 AT Kappa2,3
+240,Hexa XE 4x2 7 STR,10
+241,i10 Sportz 1.2,3
+242,GLS 350 d,5
+243,Q3 2.0 TDI quattro Premium Plus,13
+244,Polo Comfortline 1.2L (P),11
+245,XE Prestige Diesel,22
+246,Safari 4x2 EX TCIC,10
+247,Q3 35 TDI Premium + Sunroof,13
+248,Alto LXi BS-III,2
+249,XF 3.0 V6 Premium Luxury,22
+250,Verna Fluidic 1.6 VTVT SX Opt,3
+251,Vitara Brezza VDi,2
+252,5-Series 520d Luxury Line [2017-2019],6
+253,Amaze 1.5 S i-DTEC,1
+254,Harrier XZA Plus Dual Tone,10
+255,911 Carrera 4,17
+256,Wagon R LXI CNG (O),2
+257,Ciaz Delta 1.3 Hybrid,2
+258,Tucson GL 2WD AT Petrol,3
+259,Polo 1.2 TDI,11
+260,i20 Sportz 1.2,3
+261,V40 D3 Kinetic,20
+262,Jazz V AT Petrol,1
+263,S-Class S 350D [2018-2020],5
+264,Jazz S,1
+265,3-Series 320d Luxury Edition,6
+266,Evoque HSE Dynamic,19
+267,Xylo D2 BS-IV,14
+268,Venue SX 1.5 CRDi,3
+269,Scorpio S11 4WD 7 STR,14
+270,Swift VXi,2
+271,Compass Limited (O) 1.4 Petrol AT [2017-2020],16
+272,Swift VDi,2
+273,WR-V S MT Petrol,1
+274,Vento TSI,11
+275,Duster RXL Petrol,9
+276,Fiesta Style Diesel [2011-2014],12
+277,5-Series 530i Sport Line,6
+278,Safari 2.2 EX 4x2,10
+279,Seltos GTX Plus AT 1.4 [2019-2020],18
+280,Cayenne Platinum Edition Diesel,17
+281,X5 xDrive30d xLine,6
+282,Ecosport Trend 1.5 TDCi,12
+283,Grand i10 NIOS Magna 1.2 Kappa VTVT,3
+284,Elite i20 Sportz 1.4,3
+285,Elantra 1.8 SX MT,3
+286,Swift Lxi (O) [2014-2017],2
+287,Thar AX 4-STR Convertible Petrol MT,14
+288,Swift VXi [2014-2017],2
+289,DZire VDi,2
+290,5-Series 520d M Sport,6
+291,Wagon R VXI+,2
+292,Vitara Brezza ZDi Plus,2
+293,Swift DZire LXi,2
+294,Linea Emotion 1.4,24
+295,City ZX CVT Petrol,1
+296,Tucson GLS 2WD AT Petrol,3
+297,Innova 2.7 VX 7 STR [2016-2020],4
+298,TT 2.0 TFSI Quattro,13
+299,Tiago Revotron XTA [2017-2019],10
+300,City E [2013-2016],1
+301,Alto 800 Vxi (Airbag),2
+302,Nexon XZ Plus Dark Edition,10
+303,Ecosport Ambiente 1.5L TDCi,12
+304,Jazz SV Petrol,1
+305,i10 Sportz 1.2 Kappa2,3
+306,Amaze 1.2 VX AT i-VTEC,1
+307,C-Class C 200 Progressive [2018-2020],5
+308,Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,3
+309,Xcent E Plus CRDi,3
+310,Evoque SE R-Dynamic,19
+311,Astor Sharp EX 1.5 MT,15
+312,Grande GX,10
+313,Innova 2.0 V,4
+314,Etios Liva VD Dual Tone,4
+315,City SV Diesel,1
+316,Scorpio S10,14
+317,Superb L&K TSI AT,7
+318,i20 Active 1.4 SX,3
+319,Ciaz Zeta 1.4 AT,2
+320,E-Class E 220d Exclusive [2019-2019],5
+321,Thar AX 6-STR Soft Top Diesel MT,14
+322,City S Diesel,1
+323,Baleno Alpha 1.2 AT,2
+324,Celerio X Zxi AMT [2017-2019],2
+325,Wagon R LXI ABS,2
+326,Baleno Delta 1.2 AT,2
+327,Kiger RXT Turbo CVT,9
+328,Wagon R VXi 1.0 [2019-2019],2
+329,E-Class 200 K Classic,5
+330,Eon 1.0 Kappa Magna + [2014-2016],3
+331,S-Class 350 L,5
+332,S-Presso VXi CNG,2
+333,Innova 2.4 VX 8 STR [2016-2020],4
+334,Seltos GTX Plus AT 1.5 Diesel [2019-2020],18
+335,Creta SX (O) 1.5 Petrol CVT [2020-2022],3
+336,Rapid Ambition 1.6 TDI CR MT,7
+337,Elite i20 Asta 1.2 (O) [2016],3
+338,Innova 2.5 G 8 STR BS-III,4
+339,Superb L&K TDI AT,7
+340,Alto 800 Lxi CNG,2
+341,Figo Duratec Petrol Titanium 1.2,12
+342,DZire VXi AMT,2
+343,Celerio ZXi (O) AMT [2019-2020],2
+344,Grand i10 Sportz U2 1.2 CRDi,3
+345,E-Class E250 Elegance,5
+346,3-Series 330i M Sport Edition,6
+347,City SV,1
+348,S-Class Maybach S 560,5
+349,XUV500 W8 1.99 [2016-2017],14
+350,CLA 200 D Urban Sport,5
+351,Xcent SX 1.1 CRDi,3
+352,Wagon R LXi CNG,2
+353,Kodiaq Style 2.0 TDI 4x4 AT,7
+354,Hexa XTA 4x2 7 STR,10
+355,Ecosport Titanium 1.5L TDCi,12
+356,CLA 200 CDI Sport,5
+357,Innova 2.4 ZX AT 7 STR,4
+358,Countryman Cooper D,25
+359,DZire ZDi Plus AMT,2
+360,Scorpio S3 2WD 7 STR,14
+361,Manza Aqua Safire BS-IV,10
+362,XL6 Alpha MT Petrol,2
+363,Aspire Titanium1.5 TDCi,12
+364,718 Cayman [2017-2020],17
+365,Verna 1.6 VTVT S,3
+366,Eon 1.0 Kappa Magna AirBag,3
+367,Grand Vitara 2015 2.0 AT,2
+368,GLE 300d 4MATIC LWB,5
+369,TUV300 T8 AMT mHAWK100,14
+370,City V Diesel,1
+371,S-Class 300,5
+372,GLC 220d 4MATIC Progressive,5
+373,3-Series 320d Sport Line,6
+374,City VX CVT Petrol,1
+375,488 GTB,26
+376,Tiguan Highline TDI,11
+377,Evoque Pure SD4,19
+378,Zen LXi BS-II,2
+379,GLE 43 4MATIC [2017-2019],5
+380,Nano Base,10
+381,Bolero SLX 2WD,14
+382,E-Class E 220 d Avantgarde,5
+383,S-Cross Zeta 1.3,2
+384,Pajero 2.5 MT,27
+385,Swift ZXi,2
+386,Q3 35 TDI Premium,13
+387,Vento Highline Plus 1.2 (P) AT 16 Alloy,11
+388,Endeavour Titanium 3.2 4x4 AT,12
+389,Tiago Revotron XT [2016-2019],10
+390,Go D,28
+391,Seltos HTK Plus 1.5 [2019-2020],18
+392,C-Class C 250 CDI BlueEFFICIENCY,5
+393,Huracan LP 610-4,29
+394,GLA 200 d Sport,5
+395,C-Class C 220d Progressive [2018-2019],5
+396,Elite i20 Sportz 1.2 MT,3
+397,Estilo VXi BS-IV,2
+398,Eon Era +,3
+399,Alto VXi (O) [2014-2019],2
+400,7-Series 730Ld M Sport,6
+401,XUV500 W7 [2018-2020],14
+402,Endeavour 3.0L 4x4 AT,12
+403,Tucson 2WD AT GLS Diesel,3
+404,Etios V,4
+405,Fortuner 3.0 4x2 MT,4
+406,Ciaz Alpha 1.4 MT,2
+407,S-Cross Alpha 1.6,2
+408,Polo Highline1.0L (P),11
+409,Amaze 1.2 S i-VTEC,1
+410,A4 35 TDI Technology,13
+411,Ecosport Trend 1.5 Ti-VCT,12
+412,GLS 400d 4MATIC,5
+413,Harrier XZA Plus Dark Edition,10
+414,5-Series 520d Luxury Line,6
+415,GL-Class 350 CDI,5
+416,Nexon XT Diesel [2017-2019],10
+417,Scorpio VLX 4WD BS-III,14
+418,Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,15
+419,Swift DZire VXi,2
+420,Redigo S 1.0 AMT [2018-2019],28
+421,Venue SX Plus 1.0 Turbo DCT,3
+422,Swift LXi Special Edition,2
+423,TUV300 T8,14
+424,Innova 2.5 G 7 STR BS-IV,4
+425,XUV500 W6,14
+426,Elite i20 Asta 1.4 CRDI [2016-2017],3
+427,Vento Highline Petrol AT,11
+428,DZire VDi AMT,2
+429,Sonet GTX Plus 1.0 iMT [2020-2021],18
+430,S-Class 500L,5
+431,E-Class E 200 Exclusive [2019-2019],5
+432,Santro Sportz,3
+433,Range Rover 3.0 V6 Diesel Vogue,19
+434,Cooper D 3 Door,25
+435,Endeavour Titanium Plus 3.2 4x4 AT,12
+436,Duster 110 PS RXZ 4X2 AMT Diesel,9
+437,Vitara Brezza VDi AGS,2
+438,Seltos HTX 1.5 [2020-2021],18
+439,Eeco 5 STR WITH A/C+HTR [2019-2020],2
+440,S-Cross Alpha 1.3,2
+441,Elite i20 Sportz 1.4 CRDI,3
+442,Fluence 1.5 E4,9
+443,Grand i10 Sports Edition 1.2L Kappa VTVT,3
+444,Kodiaq L&K 2.0 TDI 4x4 AT,7
+445,A3 35 TDI Premium + Sunroof,13
+446,Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT,3
+447,Fortuner 2.8 4x2 MT [2016-2020],4
+448,A4 30 TFSI Technology Pack,13
+449,Jazz V Petrol,1
+450,GLC 200 Progressive,5
+451,A4 2.0 TDI Sline,13
+452,Celerio ZXi [2017-2019],2
+453,Thar LX 4-STR Hard Top Diesel MT,14
+454,Eon Magna [2011-2012],3
+455,Vitara Brezza ZDi+ Dual Tone [2017-2018],2
+456,XUV700 AX 7 Diesel AT 7 STR,14
+457,Wagon R LXi (O) 1.0 CNG [2019-2020],2
+458,Elite i20 Sportz 1.2 IVT,3
+459,City 1.5 V MT,1
+460,Fortuner 4x2 AT,4
+461,Verna Fluidic 1.6 CRDi,3
+462,i20 Active 1.2 S,3
+463,Vento Trendline Diesel,11
+464,XL6 Zeta MT Petrol,2
+465,Seltos GTX Plus 1.4 [2020-2021],18
+466,Alto VXi AMT,2
+467,Tigor EV XZ Plus,10
+468,Q7 Technology 55 TFSI,13
+469,XUV500 W10 AT,14
+470,Polo Comfortline 1.2L (D),11
+471,X1 sDrive20i xLine,6
+472,City E Diesel,1
+473,Micra XV CVT [2016-2017],8
+474,Venue SX 1.4 CRDi,3
+475,Tiguan AllSpace 2.0 TSI,11
+476,Creta SX 1.6 AT CRDi,3
+477,A-Class A 200d,5
+478,Creta EX 1.4 CRDi,3
+479,S-Class S 350 CDI,5
+480,Verna SX Plus 1.6 CRDi AT,3
+481,Alcazar Signature (O) 6 STR 2.0 Petrol AT,3
+482,Amaze 1.2 V CVT Petrol [2018-2020],1
+483,Ertiga VXI CNG,2
+484,Amaze 1.2 S MT Petrol [2018-2020],1
+485,E-Class E 200,5
+486,Evoque SE,19
+487,Q5 2.0 TDI quattro Premium Plus,13
+488,XUV300 1.5 W6 [2019-2020],14
+489,XF Prestige Diesel CBU,22
+490,C-Class C200 Progressive,5
+491,Compass Model S (O) Diesel 4x4 AT,16
+492,Etios Liva GD,4
+493,i10 Asta 1.2 AT with Sunroof,3
+494,Scorpio VLX 2WD Airbag BS-IV,14
+495,Range Rover Sport SDV6 HSE,19
+496,City ZX CVT Petrol [2017-2019],1
+497,A4 1.8 TFSI Multitronic Premium Plus,13
+498,Cruze LTZ AT,30
+499,Creta SX 1.6 CRDi,3
+500,Ertiga VDI SHVS,2
+501,Sonata 2.0 CRDi,3
+502,Innova 2.8 ZX AT 7 STR [2016-2020],4
+503,Amaze 1.5 VX CVT Diesel,1
+504,Innova ZX 2.7 AT 7 STR,4
+505,Aspire Titanium 1.2 Ti-VCT,12
+506,Ciaz Delta 1.5 Diesel,2
+507,Celerio VXi,2
+508,Urban Cruiser Premium Grade AT,4
+509,Creta E Plus 1.4 CRDI,3
+510,A3 35 TDI Premium Plus,13
+511,XUV500 W8 AWD [2015-2017],14
+512,i10 1.1L iRDE ERA Special Edition,3
+513,Verna Fluidic 1.6 VTVT SX AT,3
+514,Bolero Power Plus ZLX [2016-2019],14
+515,A4 2.0 TDI (177bhp) Premium,13
+516,A3 35 TDI Premium,13
+517,Grand i10 Asta 1.2 Kappa VTVT,3
+518,A3 40 TFSI Premium Plus + sunroof,13
+519,Brio E MT,1
+520,C-Class C 220 CDI Avantgarde,5
+521,E-Class E 350 d Exclusive [2017-2019],5
+522,XF R 5.0 V8 Supercharged,22
+523,Pajero SFX 2.8,27
+524,Etios G,4
+525,Marazzo M6 Plus 8 STR,14
+526,A6 3.0 TDI quattro Premium,13
+527,Innova 2.5 VX 7 STR BS-III,4
+528,Fortuner 2.8 4x4 AT [2016-2020],4
+529,Go T (O),28
+530,Cruze LTZ,30
+531,Creta SX 1.4 Turbo 7 DCT,3
+532,V40 D3 R-Design,20
+533,Cooper S,25
+534,TUV300 T6 Plus,14
+535,Creta 1.6 SX,3
+536,DZire ZXi,2
+537,Tiago Revotron XZ,10
+538,C-Class 220 CDI AT,5
+539,Gloster Sharp 6 STR 2.0 Twin Turbo 4WD,15
+540,E-Class E220 CDI Blue Efficiency,5
+541,Vitara Brezza ZDi,2
+542,A6 2.0 TDI Premium Plus,13
+543,City VX CVT,1
+544,Santro Magna [2018-2020],3
+545,Scorpio S11 2WD 7 STR,14
+546,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],3
+547,City ZX Diesel,1
+548,E-Class E250 CDI Avantgarde,5
+549,Sunny XV Diesel,8
+550,Ecosport Titanium 1.5L Ti-VCT,12
+551,A4 30 TFSI Premium Plus,13
+552,Creta SX 1.6 (O) Petrol,3
+553,718 Boxster,17
+554,Creta SX 1.5 Diesel [2020-2022],3
+555,XUV500 W6 2013,14
+556,GLC 220d 4MATIC Progressive [2019-2021],5
+557,Wagon R VXI+ AMT,2
+558,Range Rover Sport SDV6 SE,19
+559,Swift ZXi AMT [2018-2019],2
+560,Creta 1.6 SX (O),3
+561,Discovery Sport HSE Luxury,19
+562,i20 Active 1.2 SX,3
+563,Safari XZ Plus,10
+564,Octavia 1.8 TSI Ambition Plus AT,7
+565,Creta SX 1.6 CRDI,3
+566,Vitara Brezza VDi (O) [2016-2018],2
+567,Eeco 5 STR WITH HTR CNG [2018-2019],2
+568,i20 Sportz 1.2 (O),3
+569,XJ 3.0 Petrol,22
+570,7-Series 730Ld DPE,6
+571,Tucson GL 2WD AT Diesel,3
+572,i20 Sportz 1.4 CRDI,3
+573,Evoque Dynamic SD4,19
+574,Ertiga Vxi CNG,2
+575,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],3
+576,Corolla Altis 1.8 G AT,4
+577,City 1.5 EXi,1
+578,Swift LXi,2
+579,Ciaz Delta 1.4 MT,2
+580,Octavia 1.8 TSI L&K,7
+581,Discovery Sport SE R-Dynamic Petrol,19
+582,Kwid RXT [2015-2019],9
+583,Etios GD,4
+584,Panamera 3.0 Diesel,17
+585,A-Class Sedan 200d,5
+586,Elite i20 Magna 1.4 CRDI [2016-2017],3
+587,S-Class 350,5
+588,Estilo VXi,2
+589,Elite i20 Magna Executive 1.2,3
+590,Scorpio LX BS-III,14
+591,Rexton RX7,31
+592,X5 3.0d,6
+593,Amaze 1.2 S i-VTEC Opt,1
+594,Q7 45 TDI Technology Pack,13
+595,Elantra 1.6 SX AT,3
+596,A4 Premium Plus 40 TFSI,13
+597,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],3
+598,Rapid Elegance 1.6 MPI AT,7
+599,Q7 35 TDI Premium Plus + Sunroof,13
+600,5-Series 520d Sport Line,6
+601,Duster 85 PS RxL Diesel,9
+602,6-Series GT 630d Luxury Line [2018-2019],6
+603,Commuter HiAce 3.0 L,4
+604,Compass Limited 2.0 Diesel [2017-2020],16
+605,Baleno Alpha (O) 1.2,2
+606,Swift DZire ZXI,2
+607,Polo Trendline 1.0L (P),11
+608,Celerio LXi,2
+609,Corolla Altis GL,4
+610,Ciaz ZDi SHVS,2
+611,Wagon R LXi LPG,2
+612,Scorpio S2,14
+613,City 1.5 V AT,1
+614,Compass Limited 1.4 Petrol AT [2017-2020],16
+615,Ciaz ZXI+,2
+616,Corolla Altis 1.8 VL AT,4
+617,A6 Technology 45 TFSI,13
+618,XC60 Inscription [2017-2020],20
+619,Jetta 1.9L TDI,11
+620,Scorpio S6 Plus 1.99 [2016-2017],14
+621,Endeavour Titanium 2.0 4x2 AT,12
+622,Xcent SX CRDi,3
+623,Rexton RX6,31
+624,City VX,1
+625,X3 xDrive-20d xLine,6
+626,Redigo T(O) 1.0 [2017-2019],28
+627,i10 Magna 1.1 LPG,3
+628,i20 Asta 1.4 AT with AVN,3
+629,Creta SX Plus 1.6 CRDI Dual Tone,3
+630,3-Series 320d Prestige,6
+631,Magnite XL,8
+632,Celerio ZXi [2019-2020],2
+633,Seltos HTK Plus 1.5 Diesel,18
+634,Santro Era,3
+635,Range Rover Sport SDV6 S,19
+636,Ignis Zeta 1.2 AMT,2
+637,Safari 2.2 VX 4x2,10
+638,Punto Active 1.3,24
+639,Q3 30 TDI Premium FWD,13
+640,C-Class C 300d AMG line,5
+641,GLA 200 Sport,5
+642,City VX CVT Petrol [2017-2019],1
+643,S-Cross Sigma 1.3,2
+644,XUV700 AX 7 Diesel AT AWD Luxury Pack 7 STR,14
+645,A7 Sportback 3.0 TDI quattro,13
+646,Swift DZire LDI,2
+647,Venue SX (O) 1.0 Turbo iMT,3
+648,C-Class 220 CDI Sport,5
+649,Swift DZire ZDI AMT,2
+650,Vento Highline Diesel,11
+651,City V Petrol,1
+652,Ghost 6.5,32
+653,Q3 35 TDI Technology with Navigation,13
+654,Polo Comfortline 1.5L (D),11
+655,Nexon XM,10
+656,Verna 1.6 CRDI SX,3
+657,Discovery Sport SE R-Dynamic,19
+658,Teana 250XL,8
+659,City S Petrol,1
+660,Figo Trend 1.5L TDCi [2015-2016],12
+661,Glanza V,4
+662,E-Class E 200 Avantgarde,5
+663,Alcazar Prestige 7 STR 1.5 Diesel,3
+664,Santa Fe 2WD AT [2014-2017],3
+665,Wagon R VXi 1.2,2
+666,Innova 2.4 ZX 7 STR [2016-2020],4
+667,NX 300h Luxury [2017-2020],33
+668,Innova ZX 2.4 AT 7 STR,4
+669,Elite i20 Sportz 1.2 [2016-2017],3
+670,Duster 110 PS RxL,9
+671,Taigun Highline 1.0 TSI AT,11
+672,i20 Active 1.4 S,3
+673,Hector Plus Sharp 1.5 DCT Petrol,15
+674,3-Series 320d Sport Line [2014-2016],6
+675,Discovery HSE,19
+676,Santa Fe 4 WD (AT),3
+677,Q5 2.0 TDI quattro Premium,13
+678,Harrier XZ,10
+679,Thar CRDe 4x4 Non AC,14
+680,Vento Highline Petrol,11
+681,A3 35 TFSI Premium Plus,13
+682,Mustang GT Fastback 5.0L v8,12
+683,DZire ZXi Plus AMT,2
+684,Rapid Style 1.6 MPI AT,7
+685,Superb Elegance 1.8 TSI AT,7
+686,Xylo D4,14
+687,LX SUV Petrol,33
+688,S60 Kinetic D4,20
+689,Macan S [2019-2020],17
+690,Macan Base [2019-2020],17
+691,Baleno Zeta 1.2 AT,2
+692,Eeco 5 STR [2014-2019],2
+693,Ertiga LXI,2
+694,3-Series 320d Highline Sedan,6
+695,S-Class 280 AT,5
+696,A3 35 TDI Premium Plus + Sunroof,13
+697,Compass Sport 1.4 Petrol,16
+698,i20 Asta 1.2,3
+699,Compass Longitude (O) 2.0 Diesel [2017-2020],16
+700,Swift DZire VXI AT,2
+701,Discovery 3.0 TDV6 HSE,19
+702,i20 Magna (O) 1.2,3
+703,5-Series 520d Modern Line,6
+704,Q3 35 TDI Technology,13
+705,Seltos GTX Plus 1.4 DCT,18
+706,Elantra SX (O) 2.0 AT,3
+707,Accent Executive,3
+708,Q5 35 TDI Premium Plus,13
+709,S-Presso VXi Plus,2
+710,ES 300h Exquisite [2020-2021],33
+711,Swift DZire LXI (O),2
+712,Civic 1.8V MT,1
+713,Q3 35 TDI quattro Technology,13
+714,S-Presso VXi (O),2
+715,Countryman Cooper S JCW Inspired,25
+716,Innova 2.7 ZX AT 7 STR,4
+717,Amaze 1.5 VX i-DTEC,1
+718,Scorpio S4 1.99 [2016-2017],14
+719,Grand i10 Magna AT 1.2 Kappa VTVT,3
+720,Eeco 5 STR WITH A/C+HTR CNG [2017-2019],2
+721,Swift ZXi Plus [2018-2019],2
+722,Eeco 7 STR STD (O),2
+723,Eon Sportz,3
+724,Ecosport Titanium 1.5 Ti-VCT,12
+725,Duster 110 PS RXZ 4X2 MT Diesel,9
+726,GLE 350 d,5
+727,Alto VXi [2014-2019],2
+728,Yaris V CVT,4
+729,2 Series Gran Coupe 220d M Sport [2020-2021],6
+730,Polo GT TDI,11
+731,Tiago Revotron XM (O) [2016-2019],10
+732,Scorpio LX BS-IV,14
+733,7-Series 730Ld,6
+734,Discovery 2.0 HSE 4WD Diesel,19
+735,Ikon DuraTorq 1.4 TDCi,12
+736,Cooper D 5 Door,25
+737,Vellfire Hybrid,4
+738,Celerio ZXi,2
+739,Elantra 1.8 SX AT,3
+740,Duster 85 PS RXS 4X2 MT Diesel,9
+741,Celerio VXi [2019-2020],2
+742,Seltos HTK Plus 1.5 iMT,18
+743,XJ 3.0 V6 Portfolio,22
+744,Verna 1.6 CRDI SX (O),3
+745,Verna Fluidic 1.6 VTVT SX Opt AT,3
+746,Q8 Celebration,13
+747,X4 xDrive30d M Sport X [2019-2020],6
+748,City VX (O) MT BL,1
+749,Harrier XZA Plus,10
+750,Compass Model S (O) 1.4 Petrol DCT,16
+751,5-Series 525d Luxury Plus,6
+752,X6 xDrive40i M Sport,6
+753,XL6 Alpha AT Petrol,2
+754,Tigor XZA Plus,10
+755,Creta E Plus 1.6 Petrol,3
+756,Ciaz Alpha Hybrid 1.5 [2018-2020],2
+757,XUV500 W11,14
+758,Elite i20 Magna 1.2 [2016-2017],3
+759,Elite i20 Asta 1.2 IVT,3
+760,A4 2.0 TDI (143bhp),13
+761,Creta 1.4 S Plus,3
+762,Venue SX (O) 1.5 CRDi,3
+763,Go Plus T,28
+764,Amaze 1.2 S CVT Petrol [2018-2020],1
+765,Baleno Delta 1.3,2
+766,Kushaq Style 1.0L TSI MT,7
+767,Verna 1.6 VTVT SX (O),3
+768,Pajero Select Plus AT,27
+769,Elite i20 Sportz 1.4 CRDI [2016-2017],3
+770,Creta SX (O) 1.5 Diesel [2020-2022],3
+771,Yaris J CVT [2018-2020],4
+772,Endeavour Trend 2.2 4x2 AT,12
+773,Ciaz VDi+ SHVS,2
+774,Duster 110 PS RxZ Diesel,9
+775,Endeavour Sport 2.0 4x4 AT,12
+776,Kushaq Style 1.0L TSI AT,7
+777,Mobilio RS Diesel,1
+778,Ghost Extended Wheelbase,32
+779,Santro Sportz CNG [2018-2020],3
+780,C-Class 220 CDI Elegance AT,5
+781,3-Series 320d Luxury Line [2014-2016],6
+782,S-Cross Delta 1.6,2
+783,Compass Longitude (O) 1.4 Petrol AT [2019-2020],16
+784,Discovery Sport SE,19
+785,Swift DZire ZDi BS-IV,2
+786,Ciaz VDi (O) SHVS,2
+787,WR-V S MT Diesel,1
+788,Creta 1.6 SX Plus Special Edition,3
+789,SX4 ZDI,2
+790,Verna SX Plus 1.6 VTVT AT,3
+791,i10 Magna,3
+792,ES 300h,33
+793,X5 xDrive 30d Expedition,6
+794,TUV300 T10,14
+795,GLA 200 CDI Style,5
+796,Range Rover 3.0 V6 Diesel Vogue LWB,19
+797,Hector Sharp 1.5 DCT Petrol Dual Tone,15
+798,Ertiga VDi 1.3 Diesel,2
+799,Discovery Sport HSE Luxury 7-Seater,19
+800,XF Portfolio Diesel,22
+801,Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],3
+802,Hector Plus Smart 1.5 DCT Petrol,15
+803,City SV CVT,1
+804,Baleno Zeta 1.3,2
+805,XJ 3.0 Portfolio,22
+806,Alto 800 Lx CNG,2
+807,Polo Trendline 1.2L (P),11
+808,Santro GLS,3
+809,Creta 1.6 S Plus AT,3
+810,A8 3.0 TDI quattro,13
+811,Jazz V Diesel,1
+812,Q7 3.0 TDI quattro Premium,13
+813,Eon Magna +,3
+814,Evoque SE Dynamic,19
+815,Redigo T(O) 1.0,28
+816,Grand i10 Magna 1.2 Kappa VTVT [2016-2017],3
+817,Vento Comfortline Diesel,11
+818,Captiva LTZ AWD AT,30
+819,Ecosport Titanium + 1.5L TDCi,12
+820,A3 40 TFSI Premium,13
+821,Superb Style TSI AT,7
+822,Alturas G4 4WD AT [2018-2020],14
+823,Carnival Limousine Plus 7 STR,18
+824,GLA 220 d Activity Edition,5
+825,Santro XO eRLX - Euro III,3
+826,Scorpio S5,14
+827,Tigor Revotron XM,10
+828,Innova 2.5 G BS IV 8 STR,4
+829,A-Class A 180 Sport Petrol,5
+830,Vento Highline 1.0L TSI,11
+831,A4 2.0 TDI Technology,13
+832,Eon D-Lite +,3
+833,Evoque HSE,19
+834,Alto LXi CNG [2014-2018],2
+835,Figo Titanium1.5 TDCi,12
+836,Zest XE 75 PS Diesel,10
+837,S-Cross Zeta 1.6,2
+838,Celerio X Vxi AMT [2017-2019],2
+839,i10 Asta 1.2 AT Kappa2 with Sunroof,3
+840,Alto VXi AMT [2014-2018],2
+841,Seltos HTK Plus AT 1.5 Diesel [2020-2021],18
+842,C-Coupe 43 AMG 4MATIC,5
+843,XUV500 W10 AT 1.99,14
+844,Q5 40 TDI Premium Plus,13
+845,Thar LX 4-STR Convertible Diesel AT,14
+846,Creta 1.4 S,3
+847,Estilo LXi BS-IV,2
+848,A6 35 TFSI Matrix,13
+849,Pulse RxL ABS Diesel [2015-2017],9
+850,Amaze 1.5 E i-DTEC,1
+851,Terrano XL D THP 110 PS,8
+852,Tiago Revotron XZA,10
+853,Ignis Delta 1.2 AMT,2
+854,Polo Highline Plus 1.0L TSI,11
+855,i10 Magna 1.2,3
+856,Xcent S 1.2,3
+857,Octavia Style 1.8 TSI AT,7
+858,Amaze 1.2 VX MT Petrol [2018-2020],1
+859,XUV500 W8 AWD,14
+860,i10 Magna (O),3
+861,S90 D4 Inscription,20
+862,Xcent S 1.1 CRDi (O),3
+863,E-Class 200,5
+864,Polo 1.5 TDI,11
+865,C-Class 250 CDI Avantgarde,5
+866,Ecosport Titanium + 1.5L TDCi [2019-2020],12
+867,Kwid 1.0 RXL [2017-2019],9
+868,Innova 2.5 V 7 STR,4
+869,DZire ZXi AGS,2
+870,Ameo Trendline 1.5L (D),11
+871,SX4 VXi,2
+872,E-Class E200 CGI Blue Efficiency,5
+873,Wagon R LXi,2
+874,Grand i10 Magna U2 1.2 CRDi,3
+875,Harrier XT Plus Dark Edition,10
+876,C-Class C220d Progressive,5
+877,Ertiga ZXI+,2
+878,Amaze 1.2 E MT Petrol [2018-2020],1
+879,Vento Highline Diesel AT,11
+880,Vento Highline Plus 1.6 (P),11
+881,GLS 450 4MATIC,5
+882,Q5 2.0 TDI quattro Technology Pack,13
+883,Q5 3.0 TDI quattro,13
+884,Verna Fluidic 1.6 CRDi SX Opt,3
+885,Q2 Premium 40 TFSI quattro,13
+886,CLA 200 CDI Sport (CBU),5
+887,Etios 1.2 G,4
+888,i10 Era 1.1 iRDE2 [2010-2017],3
+889,Santro GL Plus,3
+890,Bolero SLE BS IV,14
+891,Beat LT Diesel,30
+892,XC40 T4 R-Design,20
+893,Vitara Brezza ZDi Plus AGS,2
+894,Ertiga VXI AT,2
+895,Accord 2.4 AT,1
+896,Ertiga ZXi AT,2
+897,Ciaz Delta Hybrid 1.5 AT [2018-2020],2
+898,Swift DZire VDi,2
+899,i20 Asta 1.4 CRDI,3
+900,Ertiga ZXi Plus,2
+901,Bolero SLE BS III,14
+902,Ertiga VXI,2
+903,i10 Sportz 1.2 AT,3
+904,Innova 2.5 ZX 7 STR BS-IV,4
+905,Ciaz ZDi (O) [2014-2015],2
+906,Ciaz S 1.4 MT,2
+907,Hexa XM 4x2 7 STR,10
+908,Vento Comfortline 1.6 (P),11
+909,Elite i20 Asta 1.0 Turbo IMT Dual Tone,3
+910,A-Class Sedan 200,5
+911,Nexon XM Diesel,10
+912,i20 Sportz 1.2 BS-IV,3
+913,Wrangler Rubicon,16
+914,Amaze 1.2 S AT i-VTEC,1
+915,Amaze 1.2 E i-VTEC,1
+916,Ameo Highline1.2L (P) [2016-2018],11
+917,Celerio ZXi AMT,2
+918,Aura S 1.2 CNG,3
+919,Duster 85 PS Sandstorm Edition Diesel,9
+920,Jazz VX CVT Petrol,1
+921,Ecosport Ambiente 1.5L Ti-VCT,12
+922,i20 Magna (O) 1.4 CRDI,3
+923,XUV500 W9 [2018-2020],14
+924,i10 Era,3
+925,Superb Sportline AT,7
+926,A4 35 TDI Premium,13
+927,Thar LX 4-STR Convertible Diesel MT,14
+928,Duster 110 PS RXL 4X2 AMT [2016-2017],9
+929,Octavia RS,7
+930,Elite i20 Asta 1.2 [2016-2017],3
+931,CLS 300d [2018-2019],5
+932,Innova 2.8 GX AT 8 STR [2016-2020],4
+933,V-Class Elite LWB,5
+934,Scorpio S6 Plus Intelli-Hybrid,14
+935,Venue S 1.0 AT Petrol [2019-2020],3
+936,Wagon R VXi (O),2
+937,Vitara Brezza VXi,2
+938,X7 xDrive40i M Sport,6
+939,Verna SX (O) AT Anniversary Edition 1.6 VTVT,3
+940,X1 sDrive20d,6
+941,X3 xDrive30i M Sport,6
+942,Elantra 2.0 SX (O) AT,3
+943,Kiger RXZ AMT,9
+944,Verna 1.6 VTVT SX AT,3
+945,Safari 2.2 VX 4x2 Varicor400,10
+946,DZire LDi,2
+947,S90 Momentum D4 [2018-2020],20
+948,Cooper JCW Hatchback,25
+949,S-Class S 500,5
+950,Jazz S AT [2015-2016],1
+951,XC60 Inscription,20
+952,XC90 D5 Inscription,20
+953,Kwid CLIMBER 1.0 [2017-2019],9
+954,Thar AX 6-STR Soft Top Petrol MT,14
+955,Ertiga ZDi,2
+956,Pajero 2.5 AT,27
+957,Quanto C4,14
+958,Celerio VXi (O) [2019-2020],2
+959,Compass Limited 2.0 Diesel 4x4 [2017-2020],16
+960,Celerio LDi [2015-2017],2
+961,Wagon R Duo LXi LPG,2
+962,S-Class 350 CDI L,5
+963,Cayenne Base,17
+964,Etios Liva G,4
+965,Ciaz Delta Hybrid 1.5 [2018-2020],2
+966,Hexa XT 4x2 6 STR,10
+967,Alto VXI,2
+968,A4 35 TDI Premium Sunroof,13
+969,Innova 2.5 E,4
+970,XUV500 W4 1.99,14
+971,Quanto C8,14
+972,A4 35 TDI Premium Plus,13
+973,Octavia Elegance 2.0 TDI AT,7
+974,Alcazar Platinum 7 STR 1.5 Diesel,3
+975,City VX Petrol [2017-2019],1
+976,XUV500 W5 [2018-2020],14
+977,5-Series 530d M Sport,6
+978,Creta SX 1.5 Petrol CVT [2020-2022],3
+979,Kwid RXL [2015-2019],9
+980,Rapid Elegance 1.6 TDI CR MT,7
+981,Nexon XZ Plus Diesel,10
+982,Elite i20 Asta 1.4 CRDI,3
+983,BR-V V CVT Petrol,1
+984,TUV300 T6 Plus AMT,14
+985,Xcent S 1.1 CRDi Special Edition,3
+986,Zen LX,2
+987,Ritz Ldi BS-IV,2
+988,Rapid 1.6 MPI Active,7
+989,Aspire Titanium1.5 TDCi [2018-2020],12
+990,Alcazar Signature (O) 7 Seater 1.5 Diesel AT,3
+991,Seltos HTK 1.5 Diesel [2020-2021],18
+992,Innova 2.5 GX BS IV 8 STR,4
+993,Alto 800 VXi,2
+994,Alto LXi,2
+995,Verna SX (O) 1.6 CRDi,3
+996,5-Series 530d M Sport [2017-2019],6
+997,Polo Highline1.5L (D),11
+998,X3 20d M Sport,6
+999,Q3 35 TDI Premium Plus + Sunroof,13
+1000,Terrano XE (D),8
+1001,Tiago NRG Petrol,10
+1002,S-Class S 450,5
+1003,Celerio ZXi AMT [2017-2019],2
+1004,Spark LS 1.0 BS-III,30
+1005,Grand i10 NIOS Sportz 1.2 Kappa VTVT,3
+1006,CR-V 2.0L 2WD AT,1
+1007,Swift DZire LXI,2
+1008,B-class B180 Sports,5
+1009,ZS EV Exclusive [2020-2021],15
+1010,Xcent SX 1.1 CRDi (O),3
+1011,Octavia 2.0 TDI L&K,7
+1012,Santro Sportz [2018-2020],3
+1013,Corolla Altis GL Petrol,4
+1014,Altroz XT Petrol,10
+1015,XC40 D4 R-Design,20
+1016,WR-V VX MT Diesel,1
+1017,Cayenne 3.2 V6 Petrol,17
+1018,City CVT,1
+1019,KUV100 K6 D 6 STR [2016-2017],14
+1020,Bolero Power Plus ZLX,14
+1021,Innova 2.7 GX AT 7 STR [2016-2020],4
+1022,Sunny XL,8
+1023,Ciaz Zeta 1.3 Hybrid,2
+1024,Discovery Sport HSE Petrol 7-Seater,19
+1025,Ecosport Titanium 1.5 TDCi,12
+1026,Brio VX AT,1
+1027,Wagon R LXi 1.0 CNG,2
+1028,Fiesta Titanium Diesel,12
+1029,GLA 200 d Style,5
+1030,Innova 2.0 G1 BS-IV,4
+1031,Alto 800 Std,2
+1032,City 1.5 E MT,1
+1033,Ciaz Alpha 1.4 AT,2
+1034,Compass Limited (O) 1.4 Petrol DCT,16
+1035,E-Class 280 CDI Elegance,5
+1036,XUV500 W11 (O) AT,14
+1037,Creta SX (O) 1.5 Diesel Automatic,3
+1038,XUV500 W10 AWD,14
+1039,Accord 2.4 iVtec AT,1
+1040,Etios VXD,4
+1041,Range Rover Velar 2.0 S Petrol 250,19
+1042,E-Class E200,5
+1043,B-class B180,5
+1044,Sail Sedan 1.2 LS,30
+1045,XUV700 AX 7 Petrol AT Luxury Pack 7 STR,14
+1046,Grand i10 Asta 1.1 CRDi [2013-2016],3
+1047,GLS 400 4MATIC,5
+1048,Ritz Vxi (ABS) BS-IV,2
+1049,XUV500 W8 [2015-2017],14
+1050,Figo Duratec Petrol ZXI 1.2,12
