@@ -1,0 +1,10 @@
+fuel_id,fuel_type
+1,Petrol
+2,Diesel
+3,CNG
+4,LPG
+5,Electric
+6,CNG + CNG
+7,Hybrid
+8,Petrol + CNG
+9,Petrol + LPG
